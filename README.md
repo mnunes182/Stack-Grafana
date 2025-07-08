@@ -39,4 +39,4 @@ Sinta-se livre para abrir issues ou pull requests para melhorias, correções ou
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT** — consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Este projeto está sob a licença **APACHE 2.0** — consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
